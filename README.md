@@ -16,5 +16,6 @@
 * Green boids count on upper right of screen
 * White obstacle count on upper right of screen
 * Boids wrap around edges of the map
+* Density-based coloring scheme: areas of high boid concentration are colored red; otherwise boids are green
 
 
